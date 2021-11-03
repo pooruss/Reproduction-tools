@@ -1,0 +1,9 @@
+[2021/10/29 18:47:39] root INFO: forward_0: 
+[2021/10/29 18:47:39] root INFO: 	mean diff: check passed: True, value: 2.2960999501719925e-07
+[2021/10/29 18:47:39] root INFO: forward_1: 
+[2021/10/29 18:47:39] root INFO: 	mean diff: check passed: True, value: 2.318728178352103e-07
+[2021/10/29 18:47:39] root INFO: forward_2: 
+[2021/10/29 18:47:39] root INFO: 	mean diff: check passed: True, value: 3.548697975475079e-07
+[2021/10/29 18:47:39] root INFO: forward_3: 
+[2021/10/29 18:47:39] root INFO: 	mean diff: check passed: False, value: 1.0189876320509939e-06
+[2021/10/29 18:47:39] root INFO: diff check failed
